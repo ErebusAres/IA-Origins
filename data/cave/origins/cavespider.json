@@ -7,7 +7,9 @@
         "origins:fragile",
 		"cave:descriptions/nightvision",
 		"cave:nightvision",
-        "cave:venomous"
+        "cave:venomous",
+        "cave:smallersize",
+        "cave:smallerreach"
 	],
     "icon": "minecraft:spider_eye",
     "name": "CaveSpider",
