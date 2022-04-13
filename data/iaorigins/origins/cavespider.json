@@ -13,7 +13,7 @@
         "iaorigins:movement"
 	],
     "icon": "minecraft:spider_eye",
-    "name": "CaveSpider",
+    "name": "Cave Spider",
     "description": "You're A Cave Spider. Tiny, Venomous, Carnivore.",
     "impact": 2
 }
