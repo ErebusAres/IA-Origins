@@ -1,5 +1,5 @@
 {
     "name": "Lightweight",
-    "description": "You're light weight makes you incapable of fall damage, even from great heights.",
+    "description": "You're light weight makes you incapable of fall damage, even from great heights. Although, being light weight makes you physically weaker to attacks. (-3 Hearts Compared to Human.)",
     "type": "origins:simple"
 }
