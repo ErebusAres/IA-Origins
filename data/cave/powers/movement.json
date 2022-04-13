@@ -4,7 +4,7 @@
     "modifier": {
         "name": "Quick Legs",
         "attribute": "minecraft:generic.movement_speed",
-        "value": 0.2,
-        "operation": "multiply_base"
+        "value": 0.1,
+        "operation": "addition"
     }
 }
