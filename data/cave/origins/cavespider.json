@@ -6,7 +6,8 @@
         "origins:arthropod",
         "origins:fragile",
 		"cave:descriptions/nightvision",
-		"cave:nightvision"
+		"cave:nightvision",
+        "cave:venomous"
 	],
     "icon": "minecraft:spider_eye",
     "name": "CaveSpider",
