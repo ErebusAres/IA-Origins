@@ -1,8 +1,8 @@
 {
     "pack": {
-        "name": "CaveSpider",
-        "id": "cavespider",
+        "name": "IceeAres Origins",
+        "id": "iaorigins",
         "pack_format": 6,
-        "description": "Adds the Cave Spider Origin."
+        "description": "Adds Origins From The IceeAres Pack."
     }
 }
