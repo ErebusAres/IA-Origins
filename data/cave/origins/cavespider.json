@@ -1,6 +1,7 @@
 {
     "powers": [
         "origins:climbing",
+        "origins:fall_immunity",
 		"cave:descriptions/nightvision",
 		"cave:nightvision"
 	],
