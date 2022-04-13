@@ -11,7 +11,7 @@
         "type": "origins:modify_jump",
         "modifier": {
           "name": "Spider Jump",
-          "operation": "multiply_total",
+          "operation": "addition",
           "value": 1
         }
     }
