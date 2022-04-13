@@ -8,7 +8,9 @@
 		"cave:descriptions/nightvision",
 		"cave:nightvision",
         "cave:venomous",
-        "cave:smallersize"
+        "cave:smallersize",
+        "cave:smallerreach",
+        "cave:movement"
 	],
     "icon": "minecraft:spider_eye",
     "name": "CaveSpider",

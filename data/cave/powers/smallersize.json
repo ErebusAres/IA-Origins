@@ -1,44 +1,21 @@
 {
-    "type": "origins:multiple",
-    "modify_size": {
-      "type": "extraorigins:modify_size",
-      "scale": 0.5
+    "type": "origins:action_on_callback",
+    "entity_action_chosen": {
+        "type": "origins:execute_command",
+        "command": "scale set pehkui:base 0.5"
     },
-    "attribute_modifiers": {
-      "type": "origins:attribute",
-      "modifiers": [
-        {
-          "name": "Origin modifier",
-          "attribute": "minecraft:generic.attack_speed",
-          "operation": "addition",
-          "value": 0.5
-        },
-        {
-          "name": "Origin modifier",
-          "attribute": "minecraft:generic.movement_speed",
-          "operation": "addition",
-          "value": 0.2
-        },
-        {
-          "name": "Origin modifier",
-          "attribute": "reach-entity-attributes:attack_range",
-          "operation": "addition",
-          "value": -0.25
-        },
-        {
-          "name": "Origin modifier",
-          "attribute": "reach-entity-attributes:reach",
-          "operation": "addition",
-          "value": -0.25
-        }
-      ]
+    "entity_action_respawned": {
+        "type": "origins:execute_command",
+        "command": "scale set pehkui:base 0.5"
     },
-    "jump_modifier": {
-      "type": "origins:modify_jump",
-      "modifier": {
-        "name": "Origin modifier",
-        "operation": "multiply_total",
-        "value": 1
-      }
-    }
-  }
+    "entity_action_lost": {
+        "type": "origins:execute_command",
+        "command": "scale set pehkui:base 1"
+    },
+    "entity_action_removed": {
+        "type": "origins:execute_command",
+        "command": "scale set pehkui:base 1"
+    },
+    "name": "Small Creature",
+    "description": "You are 1/2 the size of a Normal Human."
+}
