@@ -12,7 +12,7 @@
         "modifier": {
           "name": "Spider Jump",
           "operation": "multiply_total",
-          "value": 0.25
+          "value": 1
         }
     }
 }
