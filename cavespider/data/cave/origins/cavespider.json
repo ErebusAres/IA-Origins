@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "origins:climbing",
+		"cave:descriptions/nightvision",
+		"cave:nightvision"
+	],
+    "icon": "minecraft:spider_eye",
+    "name": "CaveSpider",
+    "description": "You're A Cave Spider. Tiny, Venomous, Carnivore.",
+    "impact": 2
+}
