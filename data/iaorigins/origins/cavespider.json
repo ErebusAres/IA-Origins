@@ -5,12 +5,13 @@
         "origins:carnivore",
         "origins:arthropod",
         "origins:fragile",
-		"iaorigins:descriptions/cavevision",
-		"iaorigins:cavevision",
+	"iaorigins:descriptions/cavevision",
+	"iaorigins:cavevision",
         "iaorigins:venomous",
         "iaorigins:smallersize",
         "iaorigins:smallerreach",
-        "iaorigins:movement"
+        "iaorigins:movement",
+	"iaorigins:caveweb"
 	],
     "icon": "minecraft:spider_eye",
     "name": "Cave Spider",
