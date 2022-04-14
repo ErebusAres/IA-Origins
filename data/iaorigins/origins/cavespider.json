@@ -12,7 +12,7 @@
         "iaorigins:smallerreach",
         "iaorigins:movement",
         "iaorigins:caveweb",
-        "iaorigins:no_cobweb_slowdown"
+        "origins:no_cobweb_slowdown"
 	],
     "icon": "minecraft:spider_eye",
     "name": "Cave Spider",
