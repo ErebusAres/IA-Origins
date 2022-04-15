@@ -6,7 +6,10 @@
         "origins:nine_lives",
         "origins:scare_creepers",
         "origins:cat_vision",
-        "iaorigins:pescitarian"
+        "iaorigins:pescitarian",
+        "iaorigins:hates_water",
+        "iaorigins:descriptions/hates_water"
+
 
 	],
     "icon": "minecraft:ocelot_spawn_egg",
