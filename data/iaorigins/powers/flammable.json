@@ -1,0 +1,14 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+      "type": "origins:fire"
+    },
+    "modifier": {
+      "name": "Origin modifier",
+      "operation": "multiply_base",
+      "value": 1
+    },
+    "name": "Flammable",
+    "description": "You take more damage from fire."
+
+  }

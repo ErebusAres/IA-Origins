@@ -4,7 +4,8 @@
     "enabled": true,
     "origins": [
         "iaorigins:cavespider",
-        "iaorigins:ocelot"
+        "iaorigins:ocelot",
+        "iaorigins:dryad"
     ],
     "allow_random":true,
     "hidden": false

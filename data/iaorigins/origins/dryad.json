@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "iaorigins:nectarivore",
+        "iaorigins:flammable",
+        "iaorigins:photosynthesis"
+
+	],
+    "icon": "minecraft:white_tulip",
+    "name": "Dryad (WIP)",
+    "description": "Friend to Nature and it's allies.",
+    "impact": 2
+}
