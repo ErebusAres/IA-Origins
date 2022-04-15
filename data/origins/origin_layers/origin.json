@@ -1,7 +1,12 @@
 {
+    "replace":false,
+    "order": 0,
+    "enabled": true,
     "origins": [
         "iaorigins:cavespider",
         "iaorigins:ocelot"
     ],
-    "enabled": true
+    "allow_random":true,
+    "hidden": false
+
 }
