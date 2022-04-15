@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "origins:sprint_jump",
+        "origins:velvet_paws",
+        "origins:nine_lives",
+        "origins:scare_creepers",
+        "origins:cat_vision",
+        "iaorigins:pescitarian"
+
+	],
+    "icon": "minecraft:ocelot_spawn_egg",
+    "name": "Ocelot",
+    "description": "Feline Alternative.",
+    "impact": 2
+}
