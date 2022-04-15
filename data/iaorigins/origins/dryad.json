@@ -2,7 +2,8 @@
     "powers": [
         "iaorigins:nectarivore",
         "iaorigins:flammable",
-        "iaorigins:photosynthesis"
+        "iaorigins:photosynthesis",
+        "iaorigins:flower_regen"
 
 	],
     "icon": "minecraft:white_tulip",
