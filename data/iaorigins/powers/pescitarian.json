@@ -9,11 +9,11 @@
             {
               "type": "origins:ingredient",
               "ingredient": {
-                "tag": "origins:fish"
+                "tag": "iaorigins:fish"
               }
             },
             {
-              "type": "origins:fish"
+              "type": "iaorigins:fish"
             }
           ],
           "inverted": true
