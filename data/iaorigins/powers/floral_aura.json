@@ -57,7 +57,7 @@
         "interval": 1,
         "entity_action": {
             "type": "origins:execute_command",
-            "command": "execute at @s run summon minecraft:area_effect_cloud ~ ~ ~ {ReapplicationDelay:60,Particle:\"dust 0 .4 .1 1\",Effects:[{Id:10,Duration:40,Amplifier:0,ShowIcon:0,ShowParticles:0,Ambient:1}],Radius:3,Duration:6,WaitTime:0}",
+            "command": "execute at @s run summon minecraft:area_effect_cloud ~ ~ ~ {ReapplicationDelay:60,Particle:\"dust 1 0 0 1\",Effects:[{Id:10,Duration:40,Amplifier:0,ShowIcon:0,ShowParticles:0,Ambient:1}],Radius:3,Duration:6,WaitTime:0}",
             "permission_level": 4
         },
         "condition": {
@@ -84,5 +84,5 @@
     },
     
     "name": "Floral Aura",
-    "description": "Leave a plesant scent wherever you go, Regenerating health to anything in it."
+    "description": "Leave a pleasant scent wherever you go, Regenerating health to anything in it."
 }
