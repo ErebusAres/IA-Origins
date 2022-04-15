@@ -1,5 +1,4 @@
 {
-  "hidden":true,  
   "type": "origins:conditioned_attribute",
     "condition": {
       "type": "origins:submerged_in",
@@ -9,5 +8,7 @@
       "attribute": "generic.movement_speed",
       "operation": "multiply_base",
       "value": -0.5
-    }
+    },
+    "name": "Hates Water",
+    "description": "You hate being in water and are slower when travelling through it."
   }
