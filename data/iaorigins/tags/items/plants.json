@@ -1,0 +1,30 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:cactus",
+      "minecraft:brown_mushroom",
+      "minecraft:red_mushroom",
+      "minecraft:red_flower",
+      "minecraft:yellow_flower",
+      "minecraft:sapling",
+      "minecraft:leaves",
+      "minecraft:tallgrass",
+      "minecraft:wheat",
+      "minecraft:reeds",
+      "minecraft:pumpkin",
+      "minecraft:brown_mushroom_block",
+      "minecraft:red_mushroom_block",
+      "minecraft:melon_block",
+      "minecraft:pumpkin_stem",
+      "minecraft:melon_stem",
+      "minecraft:vine",
+      "minecraft:cocoa",
+      "minecraft:carrots",
+      "minecraft:potatoes",
+      "minecraft:leaves2",
+      "minecraft:log2",
+      "minecraft:log",
+      "minecraft:double_plant",
+      "minecraft:beetroots"
+    ]
+  }

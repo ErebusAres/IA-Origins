@@ -1,0 +1,19 @@
+{
+    "type": "origins:action_on_block_break",
+    "entity_action": {
+        "type": "origins:damage",
+        "amount": 1.0,
+        "source": {
+            "name": "Hurting Plants",
+            "bypasses_armor": true,
+            "unblockable": true
+        }
+    },
+    "block_condition": {
+        "type": "origins:in_tag",
+        "tag": "iaorigins:plants"
+    },
+    "only_when_harvested": false,
+    "name": "Friend To Nature",
+    "description": "It *Literally* Pains You To Harm Plants. Take Damage From Hurting Plants."
+  }
