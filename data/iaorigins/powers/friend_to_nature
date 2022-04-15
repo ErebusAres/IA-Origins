@@ -2,9 +2,9 @@
     "type": "origins:action_on_block_break",
     "entity_action": {
         "type": "origins:damage",
-        "amount": 1.0,
+        "amount": 2.0,
         "source": {
-            "name": "thorns",
+            "name": "magic",
             "bypasses_armor": true,
             "unblockable": true
         }
