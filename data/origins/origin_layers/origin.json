@@ -1,6 +1,7 @@
 {
     "origins": [
-        "iaorigins:cavespider"
+        "iaorigins:cavespider",
+        "iaorigins:ocelot"
     ],
     "enabled": true
 }
