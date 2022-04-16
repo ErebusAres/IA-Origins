@@ -9,12 +9,16 @@
         "#logs_that_burn",
         "#replaceable_plants",
         "#saplings",
+        "#mushroom",
         "minecraft:bamboo",
         "minecraft:bamboo_sapling",
         "minecraft:vine",
         "minecraft:sugar_cane",
         "minecraft:lily_pad",
-        "minecraft:fern"
+        "minecraft:fern",
+        "minecraft:sea_pickle",
+        "minecraft:seagrass",
+        "minecraft:tall_seagrass"
 
     ]
   }

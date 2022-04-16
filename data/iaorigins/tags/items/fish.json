@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
       "#fishes",
-      "#cooked_fishes",
+      "#fabric:cooked_fishes",
       "minecraft:cod",
       "minecraft:tropical_fish",
       "minecraft:pufferfish",
