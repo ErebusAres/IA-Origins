@@ -8,7 +8,10 @@
         "#leaves",
         "#logs_that_burn",
         "#saplings",
-        "minecraft:bamboo"
+        "minecraft:bamboo",
+        "minecraft:vine",
+        "minecraft:sugar_cane",
+        "minecraft:lily_pad"
 
     ]
   }
