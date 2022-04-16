@@ -10,9 +10,11 @@
         "#replaceable_plants",
         "#saplings",
         "minecraft:bamboo",
+        "minecraft:bamboo_sapling",
         "minecraft:vine",
         "minecraft:sugar_cane",
-        "minecraft:lily_pad"
+        "minecraft:lily_pad",
+        "minecraft:fern"
 
     ]
   }
