@@ -16,10 +16,7 @@
         "minecraft:vine",
         "minecraft:sugar_cane",
         "minecraft:lily_pad",
-        "minecraft:fern",
-        "minecraft:sea_pickle",
-        "minecraft:seagrass",
-        "minecraft:tall_seagrass"
+        "minecraft:fern"
 
     ]
   }
