@@ -3,6 +3,7 @@
     "values": [
       "#fishes",
       "#fabric:cooked_fishes",
+      "#c:player_choice_fish",
       "minecraft:cod",
       "minecraft:tropical_fish",
       "minecraft:pufferfish",
