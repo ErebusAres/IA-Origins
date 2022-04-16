@@ -11,7 +11,7 @@
     },
     "block_condition": {
         "type": "origins:in_tag",
-        "tag": "iaorigins:plants"
+        "tag": "iaorigins:plant"
     },
     "only_when_harvested": false,
     "name": "Friend To Nature",

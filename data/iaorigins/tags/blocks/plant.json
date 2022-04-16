@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "#bee_growables",
+        "#cave_vines",
+        "#crops",
+        "#flowers",
+        "#leaves",
+        "#logs_that_burn",
+        "#saplings",
+        "#lily_pad"
+
+    ]
+  }
