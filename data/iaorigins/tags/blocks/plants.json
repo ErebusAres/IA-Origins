@@ -1,4 +1,6 @@
 {
+    "//this doesn't work": "use plant.json instead",
+    
     "replace": false,
     "values": [
       "minecraft:oak_sapling",
