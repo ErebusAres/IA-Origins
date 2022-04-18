@@ -9,7 +9,7 @@
             "bar_index": 8,
             "condition": {
                 "type": "origins:resource",
-                "resource": "iaorigins:regen_trail_resource",
+                "resource": "iaorigins:floral_resource",
                 "comparison": "<",
                 "compare_to": 600
             }
@@ -35,7 +35,7 @@
                 },
                 {
                     "type": "origins:change_resource",
-                    "resource": "iaorigins:regen_trail_resource",
+                    "resource": "iaorigins:floral_resource",
                     "change": -600
                 }
             ]
@@ -45,7 +45,7 @@
             "conditions": [
                 {
                     "type": "origins:resource",
-                    "resource": "iaorigins:regen_trail_resource",
+                    "resource": "iaorigins:floral_resource",
                     "comparison": "==",
                     "compare_to": 600
                 }
@@ -62,7 +62,7 @@
         },
         "condition": {
             "type": "origins:resource",
-            "resource": "iaorigins:regen_trail_resource",
+            "resource": "iaorigins:floral_resource",
             "comparison": "<=",
             "compare_to": 200
         }
@@ -72,16 +72,17 @@
         "interval": 1,
         "entity_action": {
             "type": "origins:change_resource",
-            "resource": "iaorigins:regen_trail_resource",
+            "resource": "iaorigins:floral_resource",
             "change": 1
         },
         "condition": {
             "type": "origins:resource",
-            "resource": "iaorigins:regen_trail_resource",
+            "resource": "iaorigins:floral_resource",
             "comparison": "<",
             "compare_to": 600
         }
     },
+    
     "name": "Floral Aura",
-    "description": "Leave a pleasant scent wherever you go, Regenerating health to anything in it."
+    "description": "Produce a Sweet Floral Scent trail that Heals anyone in it. [Secondary]"
 }
