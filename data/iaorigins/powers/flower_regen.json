@@ -3,7 +3,7 @@
     "entity_action": {
       "type": "apoli:apply_effect",
       "effect": {
-        "effect": "minecraft:regeneration",
+        "effect": "minecraft:resistance",
         "duration": 200,
         "amplifier": 0
       }
@@ -21,6 +21,6 @@
       "compare_to": 3
     },
     "name": "Friend of Nature",
-    "description": "When around flowers you regenerate Health."
+    "description": "When around flowers you gain resistance."
 
   }
