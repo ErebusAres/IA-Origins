@@ -8,6 +8,16 @@
               "type": "origins:execute_command",
               "command": "effect give @e[type=minecraft:player,distance=0.1..10] minecraft:regeneration 3 1 true",
               "permission_level": 4
+            },
+            {
+              "type": "origins:execute_command",
+              "command": "effect give @e[type=minecraft:villager,distance=0.1..10] minecraft:regeneration 3 1 true",
+              "permission_level": 4
+            },
+            {
+              "type": "origins:execute_command",
+              "command": "effect give @e[type=minecraft:bee,distance=0.1..10] minecraft:regeneration 3 1 true",
+              "permission_level": 4
             }
         ]
     },
@@ -22,5 +32,5 @@
         ]
     },
     "name": "Floral Scent",
-    "description": "Players near you recover 1 heart every three seconds."
+    "description": "Players, Villagers, and Bees near you recover 1 heart every three seconds."
 }
