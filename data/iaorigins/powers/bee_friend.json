@@ -1,4 +1,9 @@
 {
-    "hidden": true,
-    "type": "apoli:simple"
-}
+    "type": "extraorigins:mob_neutrality",
+    "entity_types": [
+      "minecraft:bee"
+    ],
+    
+    "name": "Bee Friend",
+    "description": "Bees don't get mad when interacting with their hives."
+  }
