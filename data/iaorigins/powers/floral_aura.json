@@ -9,7 +9,7 @@
             "bar_index": 8,
             "condition": {
                 "type": "origins:resource",
-                "resource": "iaorigins:floral_resource",
+                "resource": "iaorigins:floral_aura_resource",
                 "comparison": "<",
                 "compare_to": 600
             }
@@ -22,7 +22,7 @@
             "should_render": false
         },
         "key": {
-            "key": "key.origins.secondary_active"
+            "key": "key.origins.primary_active"
         },
         "cooldown": 0,
         "entity_action": {
@@ -35,7 +35,7 @@
                 },
                 {
                     "type": "origins:change_resource",
-                    "resource": "iaorigins:floral_resource",
+                    "resource": "iaorigins:floral_aura_resource",
                     "change": -600
                 }
             ]
@@ -45,7 +45,7 @@
             "conditions": [
                 {
                     "type": "origins:resource",
-                    "resource": "iaorigins:floral_resource",
+                    "resource": "iaorigins:floral_aura_resource",
                     "comparison": "==",
                     "compare_to": 600
                 }
@@ -62,7 +62,7 @@
         },
         "condition": {
             "type": "origins:resource",
-            "resource": "iaorigins:floral_resource",
+            "resource": "iaorigins:floral_aura_resource",
             "comparison": "<=",
             "compare_to": 200
         }
@@ -72,12 +72,12 @@
         "interval": 1,
         "entity_action": {
             "type": "origins:change_resource",
-            "resource": "iaorigins:floral_resource",
+            "resource": "iaorigins:floral_aura_resource",
             "change": 1
         },
         "condition": {
             "type": "origins:resource",
-            "resource": "iaorigins:floral_resource",
+            "resource": "iaorigins:floral_aura_resource",
             "comparison": "<",
             "compare_to": 600
         }
