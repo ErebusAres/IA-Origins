@@ -1,46 +1,9 @@
 {
-  "type": "origins:action_over_time",
-  "interval": 60,
-  "entity_action": {
-      "type": "origins:and",
-      "actions": [
-          {
-            "type": "origins:execute_command",
-            "command": "data merge entity @e[type=minecraft:bee,limit=1,distance=0.1..10] {Anger:0}",
-            "permission_level": 4
-          },
-          {
-            "type": "origins:execute_command",
-            "command": "data merge entity @e[type=minecraft:bee,limit=1,distance=0.1..10] {Anger:0}",
-            "permission_level": 4
-          },
-          {
-            "type": "origins:execute_command",
-            "command": "data merge entity @e[type=minecraft:bee,limit=1,distance=0.1..10] {Anger:0}",
-            "permission_level": 4
-          },
-          {
-            "type": "origins:execute_command",
-            "command": "data merge entity @e[type=minecraft:bee,limit=1,distance=0.1..10] {Anger:0}",
-            "permission_level": 4
-          },
-          {
-            "type": "origins:execute_command",
-            "command": "data merge entity @e[type=minecraft:bee,limit=1,distance=0.1..10] {Anger:0}",
-            "permission_level": 4
-          }
-      ]
-  },
-  "condition": {
-      "type": "origins:and",
-      "conditions":
-      [
-          {
-            "type": "origins:on_block",
-            "inverted": false
-          }
-      ]
-  },
-  "name": "Bee Friend",
-  "description": "Bees calm when near your presence."
-}
+    "type": "extraorigins:mob_neutrality",
+    "entity_types": [
+      "minecraft:bee"
+    ],
+    
+    "name": "Bee Friend",
+    "description": "Bees don't get mad when interacting with their hives."
+  }
