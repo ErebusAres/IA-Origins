@@ -1,5 +1,5 @@
 {
-    "type": "extraorigins:mob_neutrality",
+    "type": "iaorigins:mob_neutrality",
     "entity_types": [
       "minecraft:bee"
     ],
