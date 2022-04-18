@@ -4,12 +4,11 @@
         "iaorigins:flammable",
         "iaorigins:photosynthesis",
         "iaorigins:flower_buff",
-        "iaorigins:bee_friend",
         "iaorigins:friend_to_nature",
         "iaorigins:floral_scent"
 	],
     "icon": "minecraft:white_tulip",
     "name": "Dryad",
     "description": "Cleric Style Origin. Friend to Nature and it's allies.",
-    "impact": 2
+    "impact": 1
 }
