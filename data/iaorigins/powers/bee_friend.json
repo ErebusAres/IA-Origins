@@ -6,9 +6,29 @@
       "actions": [
           {
             "type": "origins:execute_command",
-            "command": "data merge entity @e[type=minecraft:bee,distance=0.1..10] {Anger:0}",
+            "command": "data merge entity @e[type=minecraft:bee,limit=1,distance=0.1..10] {Anger:0}",
             "permission_level": 4
-          }
+          },
+          {
+            "type": "origins:execute_command",
+            "command": "data merge entity @e[type=minecraft:bee,limit=1,distance=0.1..10] {Anger:0}",
+            "permission_level": 4
+          },
+          {
+            "type": "origins:execute_command",
+            "command": "data merge entity @e[type=minecraft:bee,limit=1,distance=0.1..10] {Anger:0}",
+            "permission_level": 4
+          },
+          {
+            "type": "origins:execute_command",
+            "command": "data merge entity @e[type=minecraft:bee,limit=1,distance=0.1..10] {Anger:0}",
+            "permission_level": 4
+          },
+          {
+            "type": "origins:execute_command",
+            "command": "data merge entity @e[type=minecraft:bee,limit=1,distance=0.1..10] {Anger:0}",
+            "permission_level": 4
+          },
       ]
   },
   "condition": {
