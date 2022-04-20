@@ -1,7 +1,7 @@
 {
     "powers": [
         "iaorigins:rabbit_movement",
-        "iaorigins:carrot_eater",
+        "origins:vegetarian",
         "origins:fall_immunity",
         "origins:hunger_over_time"
 
