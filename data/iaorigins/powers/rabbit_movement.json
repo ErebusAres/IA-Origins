@@ -25,5 +25,7 @@
         "operation": "multiply_total",
         "value": 1
       }
-    }
+    },
+    "name": "Quick Foot",
+    "description": "Your Movement Speed, Attack Speed, and Jump Height has been greatly improved."
   }
