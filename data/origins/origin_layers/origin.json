@@ -5,7 +5,8 @@
     "origins": [
         "iaorigins:cavespider",
         "iaorigins:ocelot",
-        "iaorigins:dryad"
+        "iaorigins:dryad",
+        "iaorigins:rabbit"
     ],
     "allow_random":true,
     "hidden": false

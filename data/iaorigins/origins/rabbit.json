@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "iaorigins:rabbit_movement",
+        "iaorigins:carrot_eater",
+        "origins:fall_immunity",
+        "origins:hunger_over_time"
+
+	],
+    "icon": "minecraft:rabbit_foot",
+    "name": "Rabbit (WIP)",
+    "description": "Super fast jumpy dude.",
+    "impact": 1
+}
