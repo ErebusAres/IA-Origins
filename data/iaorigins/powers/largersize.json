@@ -16,6 +16,6 @@
         "type": "origins:execute_command",
         "command": "scale set pehkui:base 1"
     },
-    "name": "Small Creature",
+    "name": "Large Creature",
     "description": "You are 1.5x the size of a Normal Human."
 }
