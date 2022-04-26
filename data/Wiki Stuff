@@ -1,0 +1,22 @@
+* **iaorigins:bee_friend** : _Disabled_ `Not Working.`
+* **iaorigins:carrot_eater** : `Can Eat Only Carrots.`
+* **iaorigins:cavevision** : `Uses origins:night_vision For Custom Description.`
+* **iaorigins:caveweb** : `Uses Modified origins:master_of_webs ; Without The Web On Attack.`
+* **iaorigins:flammable** : `Extra Damage Received From Fire`
+* **iaorigins:floral_aura** : _Disabled_ `Not Working Properly; Creates AOE Regeneration Aura.; Doesn't Heal Anything But Self.`
+* **iaorigins:floral_scent** : `AOE Healing 1 Heart of HP every 3 Seconds.`
+* **iaorigins:flower_buff** : `When Near 3+ Flowers Gain Resistance.`
+* **iaorigins:forest_strength** : `When In Forest Biomes Gain Attack Damage.`
+* **iaorigins:friend_to_nature** : `Receive 3 Hearts of Damage when Breaking Plants.` _Anything In [plant.json](https://github.com/ErebusAres/IA-Origins/blob/main/data/iaorigins/tags/blocks/plant.json) List._
+* **iaorigins:hates_water** : `Slower Movement Speed Under Water.`
+* **iaorigins:largerreach** : `More Block Reach and More Entity Reach.`
+* **iaorigins:largersize** : `3 Block Height.`
+* **iaorigins:movement** : `Slightly Adjusted "Faster" Movement and Jump (Small Creatures).`
+* **iaorigins:nectarivore** : `Can Eat Only Honey Bottles.`
+* **iaorigins:pescatarian** : `Can Eat Only Fish.` [fish.json](https://github.com/ErebusAres/IA-Origins/blob/main/data/iaorigins/tags/items/fish.json)
+* **iaorigins:photosynthesis** : `Gain Saturation From Sunlight.`
+* **iaorigins:rabbit_movement** : `Faster Movement Speed and Jump Height.`
+* **iaorigins:smallerreach** : `Less Block Reach and Less Entity Reach.`
+* **iaorigins:smallersize** : `1 Block Height.`
+* **iaorigins:toxic_trail** : _Unused_ `AOE Withering Cloud Trail.`
+* **iaorigins:venomous** : `Chance to Apply Poison to Target. 1 HP, 4 Ticks.`
